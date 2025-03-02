@@ -80,5 +80,5 @@ Ocean 🌊
 
 Forest 🌳
 
-Contributing 🤝
-Feel free to open issues or submit pull requests! Let's make this editor even better together. 💪
+## Contributing 🤝
+   Feel free to open issues or submit pull requests! Let's make this editor even better **together**! 💪❤️
