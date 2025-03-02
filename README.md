@@ -15,42 +15,31 @@ A **modern** and **feature-rich** Markdown editor built with Python and PyQt5. P
 
 ---
 
-## Screenshots 🖼️
-
-![Light Theme](https://via.placeholder.com/800x600/FFFFFF/000000?text=Light+Theme)  
-*Light Theme*
-
-![Dark Theme](https://via.placeholder.com/800x600/2E3440/D8DEE9?text=Dark+Theme)  
-*Dark Theme*
-
----
-
 ## Installation 🛠️
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/markdown-editor.git
    cd markdown-editor
-Install dependencies:
+2. **Install dependencies**:
+   ```bash
+   pip install PyQt5 markdown pygments
+3. **Run the editor**:
+   ```bash
+   python markdown_editor.py
 
-bash
-pip install PyQt5 markdown pygments
-Run the editor:
+## Usage 🚀
+* Write Markdown in the left pane.
 
-bash
-python markdown_editor.py
-Usage 🚀
-Write Markdown in the left pane.
+* Preview your content in real-time on the right.
 
-Preview your content in real-time on the right.
+* Switch themes from the Theme menu.
 
-Switch themes from the Theme menu.
+* Export your Markdown as HTML.
 
-Export your Markdown as HTML.
+* Open/Save files using the File menu.
 
-Open/Save files using the File menu.
-
-Themes Available 🎨
+## Themes Available 🎨
 Light Theme ☀️
 
 Dark Theme 🌙
